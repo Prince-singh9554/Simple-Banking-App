@@ -106,17 +106,17 @@ Account ID: 1001 has a balance of $500.0
 ```
 
 ## Classes and Methods
-- ### Account Class:
+### Account Class:
 
-- **int accountId:** Unique identifier for each account.
+-- **int accountId:** Unique identifier for each account.
 
-- **double balance:** Balance in the account.
+-- **double balance:** Balance in the account.
 
-- **void deposit(double amount):** Deposits a positive amount to the account.
+-- **void deposit(double amount):** Deposits a positive amount to the account.
 
-- **void withdraw(double amount):** Withdraws money from the account if sufficient funds are available.
+-- **void withdraw(double amount):** Withdraws money from the account if sufficient funds are available.
 
-- **void checkBalance():** Displays the current balance of the account.
+-- **void checkBalance():** Displays the current balance of the account.
 
 - ### SimpleBankingApp Class (Main Class):
 
@@ -134,7 +134,11 @@ Contains the main method which handles user interaction and manages multiple acc
 ---
 
 ## Contribution
--If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request.
+If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request.
+
+---
 
 ## License
 This project is open-source and available under the MIT License.
+
+---
