@@ -138,7 +138,3 @@ Account ID: 1001 has a balance of $500.0
 
 ---
 
-## License
-- This project is open-source and available under the MIT License.
-
----
